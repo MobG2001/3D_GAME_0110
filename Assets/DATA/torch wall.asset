@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12c25ff9b2cba6f49814d15134cea97d, type: 3}
   m_Name: torch wall
   m_EditorClassIdentifier: 
-  dialogueName: "\u6211"
+  dialogueName: "\u706B\u628A"
   dialogueContents:
-  - "\u9019\u652F\u706B\u628A\u53EF\u4EE5\u7528\u4F86\u7167\u4EAE\u4E0D\u5B58\u5728\u7684\u6771\u897F"
+  - "\u7A7F\u904E\u53E6\u4E00\u500B\u6211"
